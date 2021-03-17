@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm Rob 👋
+
+![Robs's github stats](https://github-readme-stats.vercel.app/api?username=ilivewithian&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilivewithian&hide=javascript&layout=compact&theme=radical)
+
+I build software, but it's mostly in private repos 😢
 
 <!--
 **ilivewithian/ilivewithian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
